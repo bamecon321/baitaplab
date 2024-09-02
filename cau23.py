@@ -6,7 +6,6 @@ Created on Sun Sep  1 14:55:51 2024
 """
 
 import math
-
 print("Giải phương trình bậc hai")
 a = float(input("Nhập a: "))
 b = float(input("Nhập b: "))
